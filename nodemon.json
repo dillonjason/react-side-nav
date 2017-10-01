@@ -1,7 +1,0 @@
-{
-  "verbose": true,
-  "ignore": [
-    "src/client"
-  ],
-  "ext": "js json jsx"
-}
